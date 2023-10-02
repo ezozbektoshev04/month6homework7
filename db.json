@@ -1,0 +1,44 @@
+{
+  "allContact": [
+    {
+      "id": 1,
+      "firstName": "Alisherali",
+      "lastName": "Khana",
+      "phone": "1232434",
+      "addFavorite": false
+    },
+    {
+      "id": 12,
+      "firstName": "Sherali",
+      "lastName": "Khan",
+      "phone": "83748373784",
+      "addFavorite": false
+    },
+    {
+      "id": 13,
+      "firstName": "Sherali",
+      "lastName": "G'aniyev",
+      "phone": "965-878-898"
+    },
+    {
+      "id": 14,
+      "firstName": "alisher",
+      "lastName": "fggfhnjg",
+      "phone": ""
+    },
+    {
+      "id": 15,
+      "firstName": "alisher",
+      "lastName": "G'aniyev",
+      "phone": "965-878-898"
+    }
+  ],
+  "favorite": [
+    {
+      "id": 1,
+      "firstName": "Alisher",
+      "lastName": "Khan",
+      "phone": "98347845"
+    }
+  ]
+}
